@@ -1,5 +1,6 @@
 #  MITRE ATT&CK
 **MITRE ATT&CK®** (Adversarial Tactics Technique and Common Knowledge) is a free, publicly available knowledge base that document real world adversary behavior. It describes what attacker do (tactics) and how they do (Technique) – from the very first step of reconnaissance all the way through data exfiltration and impact.
+
 Security teams use it to map their defense, build detection rules, conduct threat hunting and perform red\blue team exercise.
 
 
