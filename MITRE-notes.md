@@ -24,7 +24,7 @@ Tactics represent the "why" of an ATT&CK technique or sub-technique. It is the a
 | 9 | **Discovery** | Attacker explore system & network environment. |
 | 10 | **Lateral Movement** | Attacker move across the system in the network |
 | 11 | **Collection** | Sensitive data is gathering from the system. |
-| 12 | **Command & Control** | CAttacker communicate with compromised system. |
+| 12 | **Command & Control** | Attacker communicate with compromised system. |
 | 13 | **Exfiltration** | Data is transferred out of the network. |
 | 14 | **Impact** | Attacker disrupt. Destroy, or manipulate system/data. |
 
