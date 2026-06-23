@@ -265,7 +265,7 @@ Nmap provides **6 predefined timing templates**:
 nmap -sS -T0 192.168.1.10
 ```
 - Nmap waits a very long time between packets.
-- In lab environments, scanning 100 ports may take about **9.8 minutes**.
+- In lab environments, scanning 100 ports may take about **9.8 Hours**.
 - Used to avoid detection by IDS/IPS.
 
 ### `-T1` (Sneaky)
